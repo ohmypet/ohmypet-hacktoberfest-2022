@@ -25,7 +25,7 @@ cd ohmypet-hacktoberfest-2021
 👉 Create your directory related with github username
 
 ```bash
-mkdir [username]
+mkdir [your username]
 ```
 
 ♥ Commit your changes for review follow the format:
@@ -34,7 +34,7 @@ mkdir [username]
 ### Title PR
 + 🍅 Name *: The name of the author
 + 🍄 Bio: intro about you.
-+ ♥ Any thing about PR
++ ♥ Anything about PR
 ```
 
 ## What is Hacktoberfest?
