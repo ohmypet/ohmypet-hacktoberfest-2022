@@ -57,4 +57,4 @@ mkdir [your GitHub username]
 
 + [Ohmypet!@MIT](./LICENSE)
 
-CHEERS! 🍻🥂
+`CHEERS! 🍻🥂`
