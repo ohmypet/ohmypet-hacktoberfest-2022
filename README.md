@@ -11,21 +11,23 @@
 + 🛑 Please do not edit **README.md**, this will mark a valid PR.
 + 👌 You can submit a basic a project use any languages.
 + 🌟 All your code must be in your username folder
-+ 
 
 ## Gettings started
 
 👉 Clone project
 
 ```bash
+git clone https://github.com/ohmypet/ohmypet-hacktoberfest-2021.git
+# or
 git clone git@github.com:ohmypet/ohmypet-hacktoberfest-2021.git
+
 cd ohmypet-hacktoberfest-2021
 ```
 
-👉 Create your directory related with github username
+👉 Create your directory related with GitHub username
 
 ```bash
-mkdir [your username]
+mkdir [your GitHub username]
 ```
 
 ♥ Commit your changes for review follow the format:
@@ -54,3 +56,5 @@ mkdir [your username]
 ### License
 
 + [Ohmypet!@MIT](./LICENSE)
+
+CHEERS! 🍻🥂
