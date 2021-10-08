@@ -1,6 +1,6 @@
-<p align="center"><img width="80%" src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg"/></p>
+![logo](./assets/logo.png)
 
-# 🌟 Hacktoberfest & Ohmypet!🌟
+# 🌟OhMyPet! x Hacktoberfest 🌟
 
 👉 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
 
