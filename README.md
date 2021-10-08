@@ -1,31 +1,33 @@
-<p align="center"><img width="80%" src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg"/></p>
+![logo](./assets/logo.png)
 
-# 🌟 Hacktoberfest & Ohmypet!🌟
+# 🌟 OhMyPet! x Hacktoberfest 2021 🌟
 
 👉 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
 
-👉 Ohmypet! The social network for your pet.
+👉 OhMyPet! The social network for your pet.
 
 ## Rules for contributing
 
 + 🛑 Please do not edit **README.md**, this will mark a valid PR.
 + 👌 You can submit a basic a project use any languages.
 + 🌟 All your code must be in your username folder
-+ 
 
 ## Gettings started
 
 👉 Clone project
 
 ```bash
+git clone https://github.com/ohmypet/ohmypet-hacktoberfest-2021.git
+# or
 git clone git@github.com:ohmypet/ohmypet-hacktoberfest-2021.git
+
 cd ohmypet-hacktoberfest-2021
 ```
 
-👉 Create your directory related with github username
+👉 Create your directory related with GitHub username
 
 ```bash
-mkdir [username]
+mkdir [your GitHub username]
 ```
 
 ♥ Commit your changes for review follow the format:
@@ -34,7 +36,7 @@ mkdir [username]
 ### Title PR
 + 🍅 Name *: The name of the author
 + 🍄 Bio: intro about you.
-+ ♥ Any thing about PR
++ ♥ Anything about PR
 ```
 
 ## What is Hacktoberfest?
@@ -54,3 +56,5 @@ mkdir [username]
 ### License
 
 + [Ohmypet!@MIT](./LICENSE)
+
+`CHEERS! 🍻🥂`
