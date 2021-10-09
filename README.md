@@ -30,12 +30,18 @@ cd ohmypet-hacktoberfest-2021
 mkdir [your GitHub username]
 ```
 
-♥ Commit your changes for review follow the format:
+♥ Commit your changes
+
+```bash
+git commit -m "your changes"
+```
+
+🚀 Create Pull Request (PR) with this format
 
 ```md
 ### Title PR
-+ 🍅 Name *: The name of the author
-+ 🍄 Bio: intro about you.
++ 🍅 Name*: The name of the author
++ 🍄 Bio: introduce about you
 + ♥ Anything about PR
 ```
 
