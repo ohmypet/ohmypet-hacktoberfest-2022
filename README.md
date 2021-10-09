@@ -14,12 +14,16 @@
 
 ## Gettings started
 
-👉 Clone project
+✨ Fork this project
+
+![fork](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
+
+🎁 Clone your fork
 
 ```bash
-git clone https://github.com/ohmypet/ohmypet-hacktoberfest-2021.git
+git clone https://github.com/<your GitHub username>/ohmypet-hacktoberfest-2021.git
 # or
-git clone git@github.com:ohmypet/ohmypet-hacktoberfest-2021.git
+git clone git@github.com:<your GitHub username>/ohmypet-hacktoberfest-2021.git
 
 cd ohmypet-hacktoberfest-2021
 ```
