@@ -46,10 +46,11 @@ mkdir [your GitHub username]
      |-- etc
 ```
 
-♥ Commit your changes
+♥ Commit and push your changes
 
 ```bash
 git commit -m "your changes"
+git push origin main
 ```
 
 🚀 Create Pull Request (PR) with this format
