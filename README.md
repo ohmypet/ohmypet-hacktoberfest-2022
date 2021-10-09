@@ -30,6 +30,18 @@ cd ohmypet-hacktoberfest-2021
 mkdir [your GitHub username]
 ```
 
+💻 Put your project in this folder
+
+```bash
+# example
+--ohmypet-hacktoberfest-2021
+  |--your GitHub username
+     |-- folder
+     |-- file
+     |-- stuff
+     |-- etc
+```
+
 ♥ Commit your changes
 
 ```bash
