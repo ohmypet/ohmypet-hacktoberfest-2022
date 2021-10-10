@@ -14,12 +14,16 @@
 
 ## Gettings started
 
-👉 Clone project
+✨ Fork this project
+
+![fork](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
+
+🎁 Clone your fork
 
 ```bash
-git clone https://github.com/ohmypet/ohmypet-hacktoberfest-2021.git
+git clone https://github.com/<your GitHub username>/ohmypet-hacktoberfest-2021.git
 # or
-git clone git@github.com:ohmypet/ohmypet-hacktoberfest-2021.git
+git clone git@github.com:<your GitHub username>/ohmypet-hacktoberfest-2021.git
 
 cd ohmypet-hacktoberfest-2021
 ```
@@ -30,12 +34,31 @@ cd ohmypet-hacktoberfest-2021
 mkdir [your GitHub username]
 ```
 
-♥ Commit your changes for review follow the format:
+💻 Put your project in this folder
+
+```bash
+# example
+--ohmypet-hacktoberfest-2021
+  |--your GitHub username
+     |-- folder
+     |-- file
+     |-- stuff
+     |-- etc
+```
+
+♥ Commit and push your changes
+
+```bash
+git commit -m "your changes"
+git push origin main
+```
+
+🚀 Create Pull Request (PR) with this format
 
 ```md
 ### Title PR
-+ 🍅 Name *: The name of the author
-+ 🍄 Bio: intro about you.
++ 🍅 Name*: The name of the author
++ 🍄 Bio: introduce about you
 + ♥ Anything about PR
 ```
 
