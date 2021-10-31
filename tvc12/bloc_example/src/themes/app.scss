@@ -1,0 +1,71 @@
+@import '~bootstrap/dist/css/bootstrap';
+
+h1, h2, h3, h4, h5, h6, span {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  text-align: left;
+  margin: unset;
+}
+
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+  text-align: left;
+  --neutral: rgba(43, 43, 43, 0.8);
+}
+
+h6 {
+  font-size: 14px;
+}
+
+h5 {
+  font-size: 16px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+.btn-link {
+  text-decoration: underline;
+}
+
+.lds-hourglass {
+  display: inline-block;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.lds-hourglass:after {
+  content: ' ';
+  display: block;
+  border-radius: 50%;
+  width: 0;
+  height: 0;
+  margin: 8px;
+  box-sizing: border-box;
+  border: 32px solid #fff;
+  border-right-color: transparent;
+  border-left-color: transparent;
+  animation: lds-hourglass 1.2s infinite;
+}
+@keyframes lds-hourglass {
+  0% {
+    transform: rotate(0);
+    animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  }
+  50% {
+    transform: rotate(900deg);
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+  }
+  100% {
+    transform: rotate(1800deg);
+  }
+}
+
