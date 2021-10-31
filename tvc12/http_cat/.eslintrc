@@ -1,0 +1,53 @@
+{
+  "root": true,
+  "env": {
+    "node": true
+  },
+  "parserOptions": {
+    "parser": "babel-eslint"
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:node/recommended-module",
+    "prettier",
+    "plugin:vue/essential",
+    "@vue/airbnb"
+  ],
+  "plugins": ["promise", "fp", "import"],
+  "rules": {
+    "import/no-self-import": ["error"],
+    "import/no-cycle": ["error"],
+    "import/no-mutable-exports": ["warn"],
+    "import/no-unresolved": ["off"],
+    "import/prefer-default-export": ["off"],
+    "node/exports-style": ["off"],
+    "node/prefer-global/buffer": ["error"],
+    "node/prefer-global/console": ["error"],
+    "node/prefer-global/process": ["error"],
+    "node/prefer-global/url-search-params": ["error"],
+    "node/prefer-global/url": ["error"],
+    "node/prefer-promises/dns": ["error"],
+    "node/prefer-promises/fs": ["error"],
+    "node/file-extension-in-import": ["off"],
+    "node/no-missing-import": ["off"],
+    "promise/always-return": ["error"],
+    "promise/no-return-wrap": ["error"],
+    "promise/param-names": ["error"],
+    "promise/catch-or-return": ["error"],
+    "promise/no-nesting": ["warn"],
+    "promise/no-promise-in-callback": ["warn"],
+    "promise/avoid-new": ["warn"],
+    "promise/no-new-statics": ["error"],
+    "promise/no-return-in-finally": ["warn"],
+    "promise/valid-params": ["warn"],
+    "promise/no-native": ["off"],
+    "promise/no-callback-in-promise": ["off"],
+    "fp/no-class": ["warn"],
+    "fp/no-get-set": ["warn"],
+    "fp/no-loops": ["warn"],
+    "fp/no-this": ["off"],
+    "require-await": ["error"],
+    "consistent-return": ["off"],
+    "arrow-parens": ["error", "as-needed"]
+  }
+}
