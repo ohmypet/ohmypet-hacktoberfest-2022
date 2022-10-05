@@ -1,8 +1,8 @@
 ![logo](./assets/logo.png)
 
-# 🌟 OhMyPet! x Hacktoberfest 2021 🌟
+# 🌟 OhMyPet! x Hacktoberfest 2022 🌟
 
-👉 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
+👉 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the October challenge and earn a limited edition T-shirt.
 
 👉 OhMyPet! The social network for your pet.
 
@@ -21,11 +21,11 @@
 🎁 Clone your fork
 
 ```bash
-git clone https://github.com/<your GitHub username>/ohmypet-hacktoberfest-2021.git
+git clone https://github.com/<your GitHub username>/ohmypet-hacktoberfest-2022.git
 # or
-git clone git@github.com:<your GitHub username>/ohmypet-hacktoberfest-2021.git
+git clone git@github.com:<your GitHub username>/ohmypet-hacktoberfest-2022.git
 
-cd ohmypet-hacktoberfest-2021
+cd ohmypet-hacktoberfest-2022
 ```
 
 👉 Create your directory related with GitHub username
@@ -38,7 +38,7 @@ mkdir [your GitHub username]
 
 ```bash
 # example
---ohmypet-hacktoberfest-2021
+--ohmypet-hacktoberfest-2022
   |--your GitHub username
      |-- folder
      |-- file
@@ -64,7 +64,7 @@ git push origin main
 
 ## What is Hacktoberfest?
 
-🍉 Hacktoberfest, in its 8th year, is a month-long celebration of open source software run by DigitalOcean.
+🍉 Hacktoberfest, in its 9th year, is a month-long celebration of open source software run by DigitalOcean.
 
 🍎 During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects.
 
