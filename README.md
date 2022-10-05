@@ -1,4 +1,4 @@
-![logo](./assets/logo.png)
+![logo](./2022.png)
 
 # 🌟 OhMyPet! x Hacktoberfest 2022 🌟
 
