@@ -1,7 +1,8 @@
 # internet
 
-Connect to the world | Setup VPN for Linux.
+> Connect to the world | Setup VPN for Linux.
 
+I am wonderful to share the current project that I made within 5 minutes. My company network has blocked almost all internet services so I feel too hard to work with 100%. GitHub is not, Google services are the same and that is the reason I create this project.
 
 ## Installation first
 
