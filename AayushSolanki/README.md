@@ -15,3 +15,6 @@ fixed repetitive issue in navbar
 added popups for contact buttons (right top navbar)
 
 created a page for packs/offers with lorem ipsum text
+
+
+
