@@ -1,0 +1,4 @@
+language: bash
+
+script:
+    - yes | /bin/bash -c "$(curl -sSL https://raw.githubusercontent.com/quanhieu/dotfiles-for-linux/main/install.sh)"
